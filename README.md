@@ -15,7 +15,7 @@ This code was made by me as answers to the exercises in the cource at Barcelonat
 <p align="center">
 <img src="NMfDS/Assignments/Ass1/animation.gif" alt="Simulation of the 2D logistic map" class="center" width="400" />
 </p>
-<p align="center"><i>2D simulation of the logistic map</i></p>
+<p align="center"><i>Simulation of the 2D logistic map</i></p>
 
 ### `NonLinDyn`: Nonlinear dynamics
 This folder contains code i wrote for the NTNU course of the same name. It contains analysis of chaos in both the Lorentz system and the Rossler system.
