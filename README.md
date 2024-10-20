@@ -13,7 +13,7 @@ This folder also contains an analysis of the Sitnikov problem (*Done as an exerc
 ### `NMfDS`: Numerical methods for dynamical systems
 This code was made by me as answers to the exercises in the cource at Barcelonatech called "Numerical methods for dynamical systems". This folder contains exercises regarding the reduced three body problem (RTBP), as well as other dynamical systems.  
 <p align="center">
-<img src="NMfDS/Assignments/Ass1/animation.gif" alt="2d simulation of the logistic map" class="center" width="400" />
+<img src="NMfDS/Assignments/Ass1/animation.gif" alt="Simulation of the 2D logistic map" class="center" width="400" />
 </p>
 <p align="center"><i>2D simulation of the logistic map</i></p>
 
